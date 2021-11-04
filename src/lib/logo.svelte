@@ -1,0 +1,84 @@
+<script>
+	export let logofill = 'url(#a)';
+	export let logoWidth = '215px';
+	export let logoHeight = '80px';
+	export let displayText = '';
+</script>
+
+<svg
+	width="215"
+	height="80"
+	version="1.1"
+	viewBox="0 0 56.885 21.167"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+	<defs>
+		<linearGradient
+			id="a"
+			x1="26.705"
+			x2="26.717"
+			y1="36.895"
+			y2="16.673"
+			gradientTransform="matrix(.96705 0 0 .95758 -12.204 -15.483)"
+			gradientUnits="userSpaceOnUse"
+		>
+			<stop stop-color="#6d28d9" offset="0" />
+			<stop stop-color="#d946ef" offset="1" />
+		</linearGradient>
+	</defs>
+	<g transform="translate(.59946 .6155)">
+		<path
+			d="m2.4133 0.045966a1.1856 1.174 0 0 0-1.1859 1.1748 1.1856 1.174 0 0 0 1.1859 1.1748h3.8725c-2.174 1.8221-3.5596 4.5405-3.5596 7.5706 0 5.464 4.5002 9.9216 10.018 9.9216 0.29549 0 0.58742-0.01505 0.87654-0.04008a1.1852 1.1736 0 0 0 0.31234 0.04205h9.1432a1.1852 1.1736 0 0 0 1.1844-1.1743 1.1852 1.1736 0 0 0-1.1844-1.1728h-3.879c2.1772-1.8226 3.5646-4.5439 3.5646-7.5766 0-5.464-4.4997-9.9201-10.018-9.9201-0.29464 0-0.58573 0.015698-0.87404 0.040571a1.1856 1.174 0 0 0-0.30784-0.04057zm10.331 2.495c4.157-1e-6 7.5 3.3088 7.5 7.4251 0 4.1163-3.343 7.4271-7.5 7.4271-4.157 0-7.4986-3.3108-7.4986-7.4271 0-4.1163 3.3415-7.4251 7.4986-7.4251z"
+			color="#000000"
+			color-rendering="auto"
+			dominant-baseline="auto"
+			fill={logofill}
+			image-rendering="auto"
+			shape-rendering="auto"
+			solid-color="#000000"
+			stop-color="#000000"
+			style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"
+		/>
+	</g>
+	<g transform="translate(-7.8672)" fill={logofill}>
+		<text
+			x="34.218853"
+			y="14.360021"
+			font-family="'Merriweather Sans'"
+			font-size="18.072px"
+			letter-spacing=".27532px"
+			stroke-width=".21178"
+			style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"
+			xml:space="preserve"
+			><tspan
+				x="34.218853"
+				y="14.360021"
+				font-family="'Merriweather Sans'"
+				font-size="18.072px"
+				stroke-width=".21178"
+				style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
+				>at8</tspan
+			></text
+		>
+		<text
+			x="36.903091"
+			y="20.503033"
+			font-family="Merriweather"
+			font-size="6.8578px"
+			letter-spacing=".10447px"
+			stroke-width=".080365"
+			style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"
+			xml:space="preserve"
+			><tspan
+				x="36.903091"
+				y="20.503033"
+				font-family="Merriweather"
+				font-size="6.8578px"
+				stroke-width=".080365"
+				style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"
+				>.online</tspan
+			></text
+		>
+	</g>
+</svg>

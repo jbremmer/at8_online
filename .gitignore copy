@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/providers/registry.terraform.io/cloudflare/cloudflare/3.3.0/windows_amd64/terraform-provider-cloudflare_v3.3.0.exe

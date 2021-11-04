@@ -1,0 +1,9 @@
+<svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="26.705" x2="26.717" y1="36.895" y2="16.673" gradientTransform="matrix(.94425 0 0 .94425 -12.314 -13.096)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6d28d9" offset="0"/>
+   <stop stop-color="#d946ef" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1.9589 2.2163a1.1576 1.1576 0 0 0-1.1579 1.1584 1.1576 1.1576 0 0 0 1.1579 1.1584h3.7811c-2.1228 1.7967-3.4757 4.4772-3.4757 7.4652 0 5.3879 4.3941 9.7835 9.782 9.7835 0.28852 0 0.57357-0.01484 0.85587-0.03953a1.1573 1.1573 0 0 0 0.30497 0.04147h8.9276a1.1573 1.1573 0 0 0 1.1565-1.1579 1.1573 1.1573 0 0 0-1.1565-1.1564h-3.7875c2.1258-1.7972 3.4806-4.4806 3.4806-7.471 0-5.3879-4.3936-9.782-9.7815-9.782-0.2877 0-0.57192 0.015479-0.85343 0.040006a1.1576 1.1576 0 0 0-0.30058-0.040006zm10.087 2.4603c4.059-9e-7 7.3232 3.2628 7.3232 7.3217 0 4.059-3.2642 7.3237-7.3232 7.3237-4.059 0-7.3217-3.2647-7.3217-7.3237 0-4.059 3.2628-7.3217 7.3217-7.3217z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>
