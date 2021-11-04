@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>SoccerKing.co</title>
+	<title>at8.online</title>
 </svelte:head>
 
 <section class="text-gray-600 body-font">
@@ -24,7 +24,7 @@
 			<p class="mb-8 leading-relaxed">
 				Please read through our Privacy Policies explained below. It is important to us that you
 				understand it before you can accept them in order to conitnue to use our service. At
-				SoccerKing.co, we collect and manage user data according to the following Privacy Policy.
+				at8.online, we collect and manage user data according to the following Privacy Policy.
 			</p>
 		</div>
 	</div>
@@ -46,7 +46,7 @@
 			web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be
 			used in our services or emails and to track count visits or understand usage and campaign
 			effectiveness. Use of the Data We only use your personal information to provide you the
-			SoccerKing.co services or to communicate with you about the Website or the services. We employ
+			at8.online services or to communicate with you about the Website or the services. We employ
 			industry standard techniques to protect against unauthorized access of data about you that we
 			store, including personal information. We do not share personal information you have provided
 			to us without your consent, unless: Doing so is appropriate to carry out your own request We
