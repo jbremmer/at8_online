@@ -1,5 +1,5 @@
 {
-	"name": "at8.group",
+	"name": "at8.online",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "svelte-kit dev",
@@ -33,6 +33,7 @@
 		"svelte": "^3.42.6",
 		"svelte-check": "^2.2.6",
 		"svelte-preprocess": "^4.9.4",
+		"tailwindcss": "^2.2.15",
 		"tslib": "^2.3.1",
 		"typescript": "^4.4.3",
 		"@sveltejs/adapter-static": "^1.0.0-next.21",
