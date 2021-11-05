@@ -4,6 +4,7 @@
 	import Testimonials from '$lib/testimonials.svelte';
 	import Header from '$lib/header.svelte';
 	import Footer from '$lib/footer.svelte';
+	import ThreePanels from '$lib/three-panels.svelte';
 	const heroImage = '/img/simple_date.png';
 </script>
 
@@ -14,7 +15,7 @@
 <Header />
 
 <section class="text-gray-600 body-font">
-	<div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
+	<div class="container mx-auto flex px-5 py-16 md:flex-row flex-col items-center">
 		<div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
 			<img class="object-cover object-center rounded" alt="hero" src={heroImage} />
 		</div>
@@ -47,5 +48,7 @@
 <Testimonials />
 
 <Profiles />
+
+<ThreePanels />
 
 <Footer />
