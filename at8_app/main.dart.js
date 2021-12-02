@@ -38435,12 +38435,10 @@ $2(a,b){return this.Qk(a,b)},
 Qk(a,b){var s=0,r=P.Y(t.H),q,p=[],o,n,m,l,k
 var $async$$2=P.T(function(c,d){if(c===1)return P.V(d,r)
 while(true)switch(s){case 0:k=""
-s=C.b.C(a.dx,"/profiles")?3:4
-break
-case 3:s=5
+s=3
 return P.ah($.CG().CX("profiles.json"),$async$$2)
-case 5:k=d
-case 4:try{o=C.ao.e5(0,k)
+case 3:k=d
+try{o=C.ao.e5(0,k)
 m=b.a_(U.qP(o,null,null,null,null,a,null,null,t.z))
 q=m
 s=1
@@ -38517,12 +38515,10 @@ $2(a,b){return this.Qo(a,b)},
 Qo(a,b){var s=0,r=P.Y(t.H),q,p=[],o,n,m,l,k
 var $async$$2=P.T(function(c,d){if(c===1)return P.V(d,r)
 while(true)switch(s){case 0:k=""
-s=C.b.C(a.dx,"/user")?3:4
-break
-case 3:s=5
+s=3
 return P.ah($.CG().CX("user.json"),$async$$2)
-case 5:k=d
-case 4:try{o=C.ao.e5(0,k)
+case 3:k=d
+try{o=C.ao.e5(0,k)
 m=b.a_(U.qP(o,null,null,null,null,a,null,null,t.z))
 q=m
 s=1
