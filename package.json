@@ -13,7 +13,7 @@
 		"build-app": "cd ../at8_app && flutter build web --web-renderer html --release --base-href=\"/app/\"",
 		"app": "npm run build && npm run cp-build",
 		"cp-app": "cpx \"../at8_app/build/web/**\" ./at8_app",
-		"add-app-changes": "git add . && git commit -m \"skco app changes\" && git push",
+		"add-app-changes": "git add . && git commit -m \"at8 app changes\" && git push",
 		"deploy": "npm run build-app && npm run cp-app && npm run add-app-changes"
 	},
 	"devDependencies": {
