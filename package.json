@@ -10,7 +10,7 @@
 		"lint": "prettier --ignore-path .gitignore --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
 		"format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. .",
 		"cp-build": "cpx \"./at8_app/**\" ./build/app/",
-		"build-app": "cd ../at8_app && flutter build web --web-renderer html --profile --base-href=\"/app/\"",
+		"build-app": "cd ../at8_app && flutter clean && flutter build web --web-renderer html --profile --base-href=\"/app/\"",
 		"app": "npm run build && npm run cp-build",
 		"cp-app": "cpx \"../at8_app/build/web/**\" ./at8_app",
 		"add-app-changes": "git add . && git commit -m \"at8 app changes\" && git push",
