@@ -5,10 +5,38 @@
     "firstName": "Sylvia",
     "birthDate": "1995-04-15 00:00:00.000",
     "profilePictures": [
-      "https://s3.us-west-001.backblazeb2.com/at8-test/profile/5a7c58feddb14d688cf3150ab25801eb/p8.jpg",
-      "https://s3.us-west-001.backblazeb2.com/at8-test/profile/83e1159e17cd4398a77ea229e95a6f5e/p19.jpg",
-      "https://s3.us-west-001.backblazeb2.com/at8-test/profile/81932ab22e9f481290e970602879605f/p4.jpg",
-      "https://s3.us-west-001.backblazeb2.com/at8-test/profile/5a7c58feddb14d688cf3150ab25801eb/p8.jpg"
+      {
+        "src": "https://s3.us-west-001.backblazeb2.com/at8-test/profile/5a7c58feddb14d688cf3150ab25801eb/p8.jpg",
+        "dominantColor": {
+          "color": "4288126864",
+          "bodyTextColor": "2835349504",
+          "titleTextColor": "2113929216"
+        }
+      },
+      {
+        "src": "https://s3.us-west-001.backblazeb2.com/at8-test/profile/83e1159e17cd4398a77ea229e95a6f5e/p19.jpg",
+        "dominantColor": {
+          "color": "4280424729",
+          "bodyTextColor": "1979711487",
+          "titleTextColor": "1442840575"
+        }
+      },
+      {
+        "src": "https://s3.us-west-001.backblazeb2.com/at8-test/profile/81932ab22e9f481290e970602879605f/p4.jpg",
+        "dominantColor": {
+          "color": "4292731108",
+          "bodyTextColor": "2382364672",
+          "titleTextColor": "1845493760"
+        }
+      },
+      {
+        "src": "https://s3.us-west-001.backblazeb2.com/at8-test/profile/5a7c58feddb14d688cf3150ab25801eb/p8.jpg",
+        "dominantColor": {
+          "color": "4288126864",
+          "bodyTextColor": "2835349504",
+          "titleTextColor": "2113929216"
+        }
+      }
     ],
     "topics": [
       "Animals",
@@ -31,7 +59,14 @@
     "firstName": "Dani",
     "birthDate": "1992-04-15 00:00:00.000",
     "profilePictures": [
-      "https://s3.us-west-001.backblazeb2.com/at8-test/profile/83e1159e17cd4398a77ea229e95a6f5e/p19.jpg"
+      {
+        "src": "https://s3.us-west-001.backblazeb2.com/at8-test/profile/83e1159e17cd4398a77ea229e95a6f5e/p19.jpg",
+        "dominantColor": {
+          "color": "4280424729",
+          "bodyTextColor": "1979711487",
+          "titleTextColor": "1442840575"
+        }
+      }
     ]
   },
   {
@@ -40,7 +75,14 @@
     "firstName": "Sami",
     "birthDate": "1985-04-15 00:00:00.000",
     "profilePictures": [
-      "https://s3.us-west-001.backblazeb2.com/at8-test/profile/81932ab22e9f481290e970602879605f/p4.jpg"
+      {
+        "src": "https://s3.us-west-001.backblazeb2.com/at8-test/profile/81932ab22e9f481290e970602879605f/p4.jpg",
+        "dominantColor": {
+          "color": "4292731108",
+          "bodyTextColor": "2382364672",
+          "titleTextColor": "1845493760"
+        }
+      }
     ]
   },
   {
@@ -49,7 +91,14 @@
     "firstName": "Monica",
     "birthDate": "1988-04-15 00:00:00.000",
     "profilePictures": [
-      "https://s3.us-west-001.backblazeb2.com/at8-test/profile/e8b402f9cca84bfcadef2b7fa4f274d2/p20.jpg"
+      {
+        "src": "https://s3.us-west-001.backblazeb2.com/at8-test/profile/e8b402f9cca84bfcadef2b7fa4f274d2/p20.jpg",
+        "dominantColor": {
+          "color": "4292399296",
+          "bodyTextColor": "2432696320",
+          "titleTextColor": "1879048192"
+        }
+      }
     ]
   }
 ]

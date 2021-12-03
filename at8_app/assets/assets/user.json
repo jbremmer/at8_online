@@ -4,7 +4,14 @@
   "firstName": "Michael",
   "birthDate": "1981-05-27 00:00:00.000",
   "profilePictures": [
-    "https://s3.us-west-001.backblazeb2.com/at8-test/profile/59085c3d01b749c2a0bfad1dff84029e/pa01.jpg"
+    {
+      "src": "https://s3.us-west-001.backblazeb2.com/at8-test/profile/59085c3d01b749c2a0bfad1dff84029e/pa01.jpg",
+      "dominantColor": {
+        "color": "4285889404",
+        "bodyTextColor": "3791650816",
+        "titleTextColor": "2533359616"
+      }
+    }
   ],
   "topics": ["Cooking", "Dancing", "Fashion", "Nature", "Photography"]
 }
